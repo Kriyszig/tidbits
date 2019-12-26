@@ -23,4 +23,8 @@ html, body {
   min-height: 100vh;
   margin: 0;
 }
+
+body {
+  background-color: black;
+}
 </style>

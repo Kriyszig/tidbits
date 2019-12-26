@@ -18,7 +18,7 @@ export default {
 
 .top-bar {
   font-family: Harukaze;
-  color: white;
+  color: #ff1e63;
   background-color: black;
   height: 75px;
   display: flex;

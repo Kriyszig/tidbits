@@ -1,28 +1,26 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="hero">
+    <TopBar />
+    <Bits />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TopBar from './components/TopBar';
+import Bits from './components/Bits';
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    TopBar,
+    Bits,
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+html, body {
+  min-height: 100vh;
+  margin: 0;
 }
 </style>

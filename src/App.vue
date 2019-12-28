@@ -1,5 +1,5 @@
 <template>
-  <div class="hero">
+  <div id="app">
     <TopBar />
     <Bits />
   </div>

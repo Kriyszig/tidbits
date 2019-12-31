@@ -1,0 +1,31 @@
+.link {
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}
+
+.arrow {
+  color: #ff1e63;
+}
+
+.headline {
+  color: #ff1e63;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.date {
+  color: #ff1e63;
+  font-size: 11px;
+  font-weight: bolder;
+}
+
+.post-body > p {
+  color: white;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.post-body kbd {
+  color: #ff1e63;
+}

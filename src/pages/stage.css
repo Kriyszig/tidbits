@@ -1,0 +1,12 @@
+.stage-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100vw;
+}
+
+.stage {
+  max-width: 540px;
+  margin: 10px;
+}

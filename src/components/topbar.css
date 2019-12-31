@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Rocks;
+  src: url(../static/font/logo.ttf);
+}
+
+.topbar {
+  display: flex;
+  height: 75px;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  font-family: Rocks;
+  color: #ff1e63;
+  font-size: 50px;
+  font-weight: bolder;
+}

@@ -1,0 +1,29 @@
+.link {
+  text-decoration: none;
+}
+
+.article-container {
+  width: 100%;
+  color: #ff1e63;
+  margin-top: 50px;
+}
+
+.article-snippet-headline {
+  color: white;
+  font-size: 23px;
+  font-weight: bolder;
+  margin
+  : 0;
+}
+
+.article-date {
+  color: white;
+  margin: 0;
+  font-size: 11px;
+}
+
+@media Screen and (max-width: 600px) {
+  .article-container {
+    text-align: center;
+  }
+}

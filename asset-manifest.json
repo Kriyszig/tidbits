@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tidbits/static/css/main.a78e36d1.chunk.css",
+    "main.js": "/tidbits/static/js/main.9c22c2f4.chunk.js",
+    "main.js.map": "/tidbits/static/js/main.9c22c2f4.chunk.js.map",
+    "runtime-main.js": "/tidbits/static/js/runtime-main.8b6ab9b9.js",
+    "runtime-main.js.map": "/tidbits/static/js/runtime-main.8b6ab9b9.js.map",
+    "static/js/2.7d686115.chunk.js": "/tidbits/static/js/2.7d686115.chunk.js",
+    "static/js/2.7d686115.chunk.js.map": "/tidbits/static/js/2.7d686115.chunk.js.map",
+    "index.html": "/tidbits/index.html",
+    "precache-manifest.33c6a7976f2ef4a75940041e1e37d55a.js": "/tidbits/precache-manifest.33c6a7976f2ef4a75940041e1e37d55a.js",
+    "service-worker.js": "/tidbits/service-worker.js",
+    "static/css/main.a78e36d1.chunk.css.map": "/tidbits/static/css/main.a78e36d1.chunk.css.map",
+    "static/js/2.7d686115.chunk.js.LICENSE": "/tidbits/static/js/2.7d686115.chunk.js.LICENSE",
+    "static/media/avatar.jpg": "/tidbits/static/media/avatar.2deaad0d.jpg",
+    "static/media/topbar.css": "/tidbits/static/media/logo.c0fa5a8a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b6ab9b9.js",
+    "static/js/2.7d686115.chunk.js",
+    "static/css/main.a78e36d1.chunk.css",
+    "static/js/main.9c22c2f4.chunk.js"
+  ]
+}

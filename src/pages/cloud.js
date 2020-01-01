@@ -1,14 +1,16 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
 import './article.css';
 
-function Cloud() {
+function Cloud(props) {
+  const {router} = props;
+
   return (
     <div className="stage-container">
       <div className="stage">
-        <Link className="link" to={'/'}>
+        {/*eslint-disable-next-line*/}
+        <a className="link" onClick={() => router('/')}>
           <kbd className="arrow">◀</kbd> Go Back
-        </Link>
+        </a>
         <p className="headline">
           Cloud Computing and Gaming Arcades
         </p>

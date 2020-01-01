@@ -3,12 +3,13 @@ import About from '../components/about';
 import CloudSnippet from '../components/cloud-snippet';
 import './stage.css';
 
-function Stage() {
+function Stage(props) {
+  const {router} = props;
   return(
     <div className="stage-container">
       <div className="stage">
         <About />
-        <CloudSnippet />
+        <CloudSnippet router={router} />
       </div>
     </div>
   )

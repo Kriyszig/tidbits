@@ -1,5 +1,4 @@
-import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import React, {useState} from 'react';
 
 import TopBar from './components/topbar';
 import Stage from './pages/stage';
@@ -7,14 +6,20 @@ import Cloud from './pages/cloud';
 import './App.css';
 
 function App() {
+  const [routeState, setRouteState] = useState('/');
+
   return (
-    <Router>
-      <div className="hero-container">
-        <TopBar />
-        <Route exact path="/" component={Stage} />
-        <Route path="/posts/cloud-computing-and-arcade" component={Cloud} />
-      </div>
-    </Router>
+    <div className="hero-container">
+      <TopBar />
+      {
+        (routeState === '/')?
+          <Stage  router={setRouteState} />
+        : (routeState === 'cloud')?
+          <Cloud router={setRouteState} />
+        :
+          ''
+      }
+    </div>
   );
 }
 

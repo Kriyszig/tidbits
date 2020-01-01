@@ -1,10 +1,12 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
 import './snippet.css';
 
-function CloudSnippet() {
+function CloudSnippet(props) {
+  const {router} = props;
+
   return(
-    <Link className="link" to={'/posts/cloud-computing-and-arcade'}>
+    // eslint-disable-next-line
+    <a className="link" onClick={() => router('cloud')}>
       <div className="article-container">
         <p className="article-snippet-headline">
           Cloud Computing and Gaming Arcades
@@ -16,7 +18,7 @@ function CloudSnippet() {
           Comparing the striking similarities between the business of cloud computing and running a gaming arcade
         </p>
       </div>
-    </Link>
+    </a>
   );
 }
 

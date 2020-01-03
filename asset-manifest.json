@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tidbits/static/css/main.c50161cf.chunk.css",
+    "main.css": "/tidbits/static/css/main.23b36e47.chunk.css",
     "main.js": "/tidbits/static/js/main.05f53060.chunk.js",
     "main.js.map": "/tidbits/static/js/main.05f53060.chunk.js.map",
     "runtime-main.js": "/tidbits/static/js/runtime-main.fb16b77d.js",
@@ -8,9 +8,9 @@
     "static/js/2.96cc4db5.chunk.js": "/tidbits/static/js/2.96cc4db5.chunk.js",
     "static/js/2.96cc4db5.chunk.js.map": "/tidbits/static/js/2.96cc4db5.chunk.js.map",
     "index.html": "/tidbits/index.html",
-    "precache-manifest.d7e460be4117af2dea7344addf6c656d.js": "/tidbits/precache-manifest.d7e460be4117af2dea7344addf6c656d.js",
+    "precache-manifest.3e41020934c6d2a8d77b08feb17cca14.js": "/tidbits/precache-manifest.3e41020934c6d2a8d77b08feb17cca14.js",
     "service-worker.js": "/tidbits/service-worker.js",
-    "static/css/main.c50161cf.chunk.css.map": "/tidbits/static/css/main.c50161cf.chunk.css.map",
+    "static/css/main.23b36e47.chunk.css.map": "/tidbits/static/css/main.23b36e47.chunk.css.map",
     "static/js/2.96cc4db5.chunk.js.LICENSE": "/tidbits/static/js/2.96cc4db5.chunk.js.LICENSE",
     "static/media/avatar.jpg": "/tidbits/static/media/avatar.2deaad0d.jpg",
     "static/media/topbar.css": "/tidbits/static/media/logo.c0fa5a8a.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.fb16b77d.js",
     "static/js/2.96cc4db5.chunk.js",
-    "static/css/main.c50161cf.chunk.css",
+    "static/css/main.23b36e47.chunk.css",
     "static/js/main.05f53060.chunk.js"
   ]
 }

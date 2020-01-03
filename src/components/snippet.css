@@ -8,6 +8,11 @@
   margin-top: 50px;
 }
 
+.article-container:hover {
+  padding-left: 25px;
+  border-left: 1px solid white;
+}
+
 .article-snippet-headline {
   color: white;
   font-size: 23px;

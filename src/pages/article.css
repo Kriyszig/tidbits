@@ -5,6 +5,14 @@
   cursor: grab;
 }
 
+.link:hover > kbd {
+  color: white;
+}
+
+.link:hover {
+  color: #ff1e63;
+}
+
 .arrow {
   color: #ff1e63;
 }

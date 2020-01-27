@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 
 import TopBar from './components/topbar';
 import Stage from './pages/stage';
-import Cloud from './pages/cloud';
+import Vaporfly from './pages/vaporfly';
 import './App.css';
 
 function App() {
@@ -14,8 +14,8 @@ function App() {
       {
         (routeState === '/')?
           <Stage  router={setRouteState} />
-        : (routeState === 'cloud')?
-          <Cloud router={setRouteState} />
+        : (routeState === 'fly')?
+          <Vaporfly router={setRouteState} />
         :
           ''
       }

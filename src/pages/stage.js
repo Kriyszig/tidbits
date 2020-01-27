@@ -1,5 +1,6 @@
 import React from 'react';
 import About from '../components/about';
+import Fly from '../components/fly';
 import './stage.css';
 
 function Stage(props) {
@@ -8,6 +9,7 @@ function Stage(props) {
     <div className="stage-container">
       <div className="stage">
         <About />
+        <Fly router={router} />
       </div>
     </div>
   )

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tidbits/static/css/main.3303c95c.chunk.css",
-    "main.js": "/tidbits/static/js/main.05f53060.chunk.js",
-    "main.js.map": "/tidbits/static/js/main.05f53060.chunk.js.map",
+    "main.js": "/tidbits/static/js/main.996fdafd.chunk.js",
+    "main.js.map": "/tidbits/static/js/main.996fdafd.chunk.js.map",
     "runtime-main.js": "/tidbits/static/js/runtime-main.fb16b77d.js",
     "runtime-main.js.map": "/tidbits/static/js/runtime-main.fb16b77d.js.map",
     "static/js/2.96cc4db5.chunk.js": "/tidbits/static/js/2.96cc4db5.chunk.js",
     "static/js/2.96cc4db5.chunk.js.map": "/tidbits/static/js/2.96cc4db5.chunk.js.map",
     "index.html": "/tidbits/index.html",
-    "precache-manifest.09c9df983218920fb86d2330c3804274.js": "/tidbits/precache-manifest.09c9df983218920fb86d2330c3804274.js",
+    "precache-manifest.2af58a1f5a2ee9cab78f245d5891fd8e.js": "/tidbits/precache-manifest.2af58a1f5a2ee9cab78f245d5891fd8e.js",
     "service-worker.js": "/tidbits/service-worker.js",
     "static/css/main.3303c95c.chunk.css.map": "/tidbits/static/css/main.3303c95c.chunk.css.map",
     "static/js/2.96cc4db5.chunk.js.LICENSE": "/tidbits/static/js/2.96cc4db5.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.fb16b77d.js",
     "static/js/2.96cc4db5.chunk.js",
     "static/css/main.3303c95c.chunk.css",
-    "static/js/main.05f53060.chunk.js"
+    "static/js/main.996fdafd.chunk.js"
   ]
 }

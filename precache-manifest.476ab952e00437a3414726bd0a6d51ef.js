@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b206c2da8caa1b0504411e48ec03abc2",
+    "revision": "b865356ac8e385ffd396591064e48ba5",
     "url": "/tidbits/index.html"
   },
   {
-    "revision": "04d1de624b6060d82e25",
+    "revision": "16dfa30bc1b4952e770b",
     "url": "/tidbits/static/css/main.3303c95c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tidbits/static/js/2.96cc4db5.chunk.js.LICENSE"
   },
   {
-    "revision": "04d1de624b6060d82e25",
-    "url": "/tidbits/static/js/main.707d08a0.chunk.js"
+    "revision": "16dfa30bc1b4952e770b",
+    "url": "/tidbits/static/js/main.f3987ed6.chunk.js"
   },
   {
     "revision": "ab6e8652bc3dcaee587b",

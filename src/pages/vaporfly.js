@@ -15,7 +15,7 @@ function Vaporfly(props) {
           Nike Vaporfly - A Case of Milage
         </p>
         <p className="date">
-          31st December, 2019
+          27th January, 2019
         </p>
         <div className="post-body">
           <p>

@@ -3,6 +3,7 @@ import React, {useState} from 'react';
 import TopBar from './components/topbar';
 import Stage from './pages/stage';
 import Vaporfly from './pages/vaporfly';
+import Users from './pages/user';
 import './App.css';
 
 function App() {
@@ -10,12 +11,14 @@ function App() {
 
   return (
     <div className="hero-container">
-      <TopBar />
+      <TopBar router={setRouteState} />
       {
         (routeState === '/')?
           <Stage  router={setRouteState} />
         : (routeState === 'fly')?
           <Vaporfly router={setRouteState} />
+        : (routeState === 'Windows')?
+          <Users router={setRouteState} />
         :
           ''
       }

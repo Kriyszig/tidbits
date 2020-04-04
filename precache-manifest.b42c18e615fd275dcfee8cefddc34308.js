@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b865356ac8e385ffd396591064e48ba5",
+    "revision": "f0a5ce154770b16e05431e0e3e496b1f",
     "url": "/tidbits/index.html"
   },
   {
-    "revision": "16dfa30bc1b4952e770b",
-    "url": "/tidbits/static/css/main.3303c95c.chunk.css"
+    "revision": "d56725f0b4d47c7f8d37",
+    "url": "/tidbits/static/css/main.28f274b5.chunk.css"
   },
   {
-    "revision": "af19baf416317087b4a0",
-    "url": "/tidbits/static/js/2.96cc4db5.chunk.js"
+    "revision": "85752e80b42280090a28",
+    "url": "/tidbits/static/js/2.b530c762.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/tidbits/static/js/2.96cc4db5.chunk.js.LICENSE"
+    "url": "/tidbits/static/js/2.b530c762.chunk.js.LICENSE"
   },
   {
-    "revision": "16dfa30bc1b4952e770b",
-    "url": "/tidbits/static/js/main.f3987ed6.chunk.js"
+    "revision": "d56725f0b4d47c7f8d37",
+    "url": "/tidbits/static/js/main.6884859e.chunk.js"
   },
   {
     "revision": "ab6e8652bc3dcaee587b",

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0bf98506736a40018f2ea1c8a1d049f",
+    "revision": "03ed4e4d915c50b85211d3986914c58c",
     "url": "/tidbits/index.html"
   },
   {
